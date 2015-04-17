@@ -1,13 +1,13 @@
 # Android_Tests
 # android tests for class project
 
-#
-# How to read this file:
-# note that [a : b] denotes time, in "min"."sec"
-# There are a total of 15 traces, with 5 done for each of the following categories:
-# { Wikipedia, Html5Reference, AllRecipes}
-# hence, note that every trace has 5 tests for each grouping of traces. 
-#
+
+ How to read this file:
+ note that [a : b] denotes time, in "min"."sec"
+ There are a total of 15 traces, with 5 done for each of the following categories:
+ { Wikipedia, Html5Reference, AllRecipes}
+ hence, note that every trace has 5 tests for each grouping of traces. 
+
 
 --------------------------------------------
 --------------------------------------------
