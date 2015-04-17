@@ -1,7 +1,22 @@
 # Android_Tests
-android tests for class project
+# android tests for class project
 
-Wikipedia Traces
+#
+# How to read this file:
+# note that [a : b] denotes time, in "min"."sec"
+# There are a total of 15 traces, with 5 done for each of the following categories:
+# { Wikipedia, Html5Reference, AllRecipes}
+# hence, note that every trace has 5 tests for each grouping of traces. 
+#
+
+--------------------------------------------
+--------------------------------------------
+--------------------------------------------
+Wikipedia
+--------------------------------------------
+--------------------------------------------
+--------------------------------------------
+
 TRACE 1 : Test 1
 
 [0.00,0.40]: first screen pops up
@@ -60,7 +75,7 @@ HTML 5 REFERENCE
 --------------------------------------------
 
 ----------------------------------------------
-TRACE 1
+TRACE 6 : Test 1
 
 [0.00,0.40]: explore page about <DOCTYPE> + familiarize with HTMl 5 Reference app
 [0.40,1.15]: Scroll and Read Entry.
@@ -71,7 +86,7 @@ TRACE 1
 [3.30,4.00]: Read entry on "progress".
 
 ----------------------------------------------
-TRACE 2
+TRACE 7 : Test 2
 
 [0.00,0.55]: explore the "address" page entry.
 [0.55,1.50]: explore the "audio" page entry.
@@ -79,7 +94,7 @@ TRACE 2
 [2.05,3.15]: explore the "wbr" page entry.
 
 ----------------------------------------------
-TRACE 3
+TRACE 8 : Test 3
 
 [0.00,0.20]: explore main reference page.
 [0.20,1.00]: read "figcaption" entry/
@@ -91,7 +106,7 @@ TRACE 3
 [3.30,3.55]: read "nav" entry.
 
 ----------------------------------------------
-TRACE 4
+TRACE 9 : Test 4
 
 [0.00,0.25]: scroll through the main reference page.
 [0.25,0.55]: explore "legend" entry.
@@ -99,7 +114,7 @@ TRACE 4
 [1.45,3.10]: scroll to, then explore "ins" entry.
 
 ----------------------------------------------
-TRACE 5
+TRACE 10 : Test 5
 
 [0.00,0.30]: scroll through the main reference page.
 [0.30,1.20]: explore "ruby" entry.
@@ -117,7 +132,7 @@ ALL RECIPES
 --------------------------------------------
 
 ---------------------------------------------
-TRACE 1
+TRACE 11 : Test 1
 
 [0.00:0.10] - enter the app.
 [0.10 : 0.30] - sign into account.
@@ -128,7 +143,8 @@ TRACE 1
 [3.30 : 4.30] - go to shopping list pop up menu and scroll through it.
 
 ---------------------------------------------
-TRACE 2
+TRACE 12 : Test 2
+
 [0.00:0.15] - enter the app.
 [0.10 : 0.35] - sign into dummy account.
 [0.35 : 1.20] - search recipes online.
@@ -137,7 +153,8 @@ TRACE 2
 [3.00 : 3.20] - check out and read on a new recipe.
 
 ---------------------------------------------
-TRACE 3
+TRACE 13 : Test 3
+
 [0.00:0.25] - enter the app and sign into dummy account.
 [0.35 : 1.20] - search recipes online.
 [1.20 : 2.00] - read recipe directions + other information on first pop-up page.
@@ -145,7 +162,8 @@ TRACE 3
 [2.40 : 3.00] - prematurally exit app for unknown reason.
 
 ---------------------------------------------
-TRACE 4
+TRACE 14 : Test 4
+
 [0.00:0.30] - enter the app and sign into dummy account.
 [0.30 : 1.20] - search recipes online.
 [1.20 : 2.40] - read recipe directions + other information on first pop-up page.
@@ -153,7 +171,9 @@ TRACE 4
 [3.00 : 3.50] - reread other stuff about recipe.
 
 ---------------------------------------------
-TRACE 5
+
+TRACE 15 : Test 5
+
 [0.00:0.40] - enter the app and sign into dummy account.
 [0.40 : 1.25] - search recipes online.
 [1.25 : 3.00] - read recipe information on first pop-up page.
