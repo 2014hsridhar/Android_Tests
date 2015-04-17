@@ -64,49 +64,49 @@ TRACE 1
 
 [0.00,0.40]: explore page about <DOCTYPE> + familiarize with HTMl 5 Reference app
 [0.40,1.15]: Scroll and Read Entry.
-[1.15,1.40]: Read entry on <article>.
+[1.15,1.40]: Read entry on "article".
 [1.40,2.10]: Scroll throgugh references list.
-[2.10,2:45]: Read entry on <iframe>.
-[2.45,3.30]: Read entry on <iframe>.
-[3.30,4.00]: Read entry on <progress>.
+[2.10,2:45]: Read entry on "iframe".
+[2.45,3.30]: Read entry on "iframe".
+[3.30,4.00]: Read entry on "progress".
 
 ----------------------------------------------
 TRACE 2
 
-[0.00,0.55]: explore the <address> page entry.
-[0.55,1.50]: explore the <audio> page entry.
+[0.00,0.55]: explore the "address" page entry.
+[0.55,1.50]: explore the "audio" page entry.
 [1.50,2.05]: scroll among referneces.
-[2.05,3.15]: explore the <wbr> page entry.
+[2.05,3.15]: explore the "wbr" page entry.
 
 ----------------------------------------------
 TRACE 3
 
 [0.00,0.20]: explore main reference page.
-[0.20,1.00]: read <figcaption> entry/
-[1.00,1.30]: read <i> entry.
-[1.30,1.45]: search for <summary> entry.
-[1.45,2.15]: read <summary> entry.
-[2.15,2.40]: read <kbd> entry.
-[2.40,3.30]: read <map> entry.
-[3.30,3.55]: read <nav> entry.
+[0.20,1.00]: read "figcaption" entry/
+[1.00,1.30]: read "i" entry.
+[1.30,1.45]: search for "summary" entry.
+[1.45,2.15]: read "summary" entry.
+[2.15,2.40]: read "kbd" entry.
+[2.40,3.30]: read "map" entry.
+[3.30,3.55]: read "nav" entry.
 
 ----------------------------------------------
 TRACE 4
 
 [0.00,0.25]: scroll through the main reference page.
-[0.25,0.55]: explore <legend> entry.
-[0.55,1.45]: scroll to, then explore <optgroup> entry.
-[1.45,3.10]: scroll to, then explore <ins> entry.
+[0.25,0.55]: explore "legend" entry.
+[0.55,1.45]: scroll to, then explore "optgroup" entry.
+[1.45,3.10]: scroll to, then explore "ins" entry.
 
 ----------------------------------------------
 TRACE 5
 
 [0.00,0.30]: scroll through the main reference page.
-[0.30,1.20]: explore <ruby> entry.
-[1.20,2.05]: scroll to and explore <table> entry.
-[2.05,3.15]: scroll to and explore <video> entry.
-[3.15,3.40]: scroll to <noscript> entry.
-[3.40,4.10]: read <noscript> entry.
+[0.30,1.20]: explore "ruby" entry.
+[1.20,2.05]: scroll to and explore "table" entry.
+[2.05,3.15]: scroll to and explore "video" entry.
+[3.15,3.40]: scroll to "noscript" entry.
+[3.40,4.10]: read "noscript" entry.
 
 --------------------------------------------
 --------------------------------------------
