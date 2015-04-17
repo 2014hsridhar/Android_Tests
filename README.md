@@ -108,10 +108,15 @@ TRACE 5
 [3.15,3.40]: scroll to <noscript> entry.
 [3.40,4.10]: read <noscript> entry.
 
-
-=------------------
+--------------------------------------------
+--------------------------------------------
+--------------------------------------------
 ALL RECIPES
-----------------
+--------------------------------------------
+--------------------------------------------
+--------------------------------------------
+
+---------------------------------------------
 TRACE 1
 
 [0.00:0.10] - enter the app.
@@ -122,6 +127,7 @@ TRACE 1
 [3.20 : 3.30] - add to shopping cart and click heart symbol.
 [3.30 : 4.30] - go to shopping list pop up menu and scroll through it.
 
+---------------------------------------------
 TRACE 2
 [0.00:0.15] - enter the app.
 [0.10 : 0.35] - sign into dummy account.
@@ -130,6 +136,7 @@ TRACE 2
 [2.50 : 3.00] - add to shopping cart and click heart symbol.
 [3.00 : 3.20] - check out and read on a new recipe.
 
+---------------------------------------------
 TRACE 3
 [0.00:0.25] - enter the app and sign into dummy account.
 [0.35 : 1.20] - search recipes online.
@@ -137,6 +144,7 @@ TRACE 3
 [2.00 : 2.50] - read reviews.
 [2.40 : 3.00] - prematurally exit app for unknown reason.
 
+---------------------------------------------
 TRACE 4
 [0.00:0.30] - enter the app and sign into dummy account.
 [0.30 : 1.20] - search recipes online.
@@ -144,6 +152,7 @@ TRACE 4
 [2.40 : 3.00] - add and like the recipe.
 [3.00 : 3.50] - reread other stuff about recipe.
 
+---------------------------------------------
 TRACE 5
 [0.00:0.40] - enter the app and sign into dummy account.
 [0.40 : 1.25] - search recipes online.
